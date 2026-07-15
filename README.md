@@ -129,7 +129,7 @@ Lower combined score = higher funding priority. This is already implemented as `
 
 ## Built With
 
-- Power BI Desktop + Analysis Services Tabular model (live modeling via MCP)
+- Power BI Desktop 
 - DAX (RANKX, CALCULATE, context transition, rank-sum composite scoring)
   
 ---
