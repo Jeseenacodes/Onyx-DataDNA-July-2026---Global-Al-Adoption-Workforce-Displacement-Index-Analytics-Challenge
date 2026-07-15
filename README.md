@@ -1,6 +1,6 @@
-# Onyx-DataDNA July 2026 Global Al Adoption Workforce Displacement Index Analytics Challenge
+# Global Al Adoption Workforce Displacement Index Analytics Challenge
 
-· Power BI · DAX · Star Schema Modeling
+## Onyx-DataDNA July 2026 · Power BI · DAX · Star Schema Modeling
 
 A 3-page Power BI report analyzing how AI adoption reshaped employment across 30 countries, 25 industries, and 8 skill categories between 2021 and 2024, built for a policy coalition briefing on where reskilling investment should go next.
 
