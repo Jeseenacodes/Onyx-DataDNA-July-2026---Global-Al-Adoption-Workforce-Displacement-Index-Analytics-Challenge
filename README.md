@@ -5,7 +5,7 @@
 
 **FP20 Analytics Challenge** · Power BI · DAX · Star Schema Modeling
 
-A 3-page Power BI report analyzing how AI adoption reshaped employment across 30 countries, 25 industries, and 8 skill categories between 2021 and 2024 — built for a policy coalition briefing on where reskilling investment should go next.
+A 3-page Power BI report analyzing how AI adoption reshaped employment across 30 countries, 25 industries, and 8 skill categories between 2021 and 2024, built for a policy coalition briefing on where reskilling investment should go next.
 
 ---
 
